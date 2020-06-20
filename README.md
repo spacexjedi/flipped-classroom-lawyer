@@ -8,5 +8,9 @@ Self learning as a Law Student.
 1 - O Primeiro Ano - Scott Turow  
 
 >> Exercises   
-1 - Tecconcursos FCC 2020  
+1 - Tecconcursos FCC 2020   
+
+
+* Classes  
+1 - Raciocínio Lógico - Kultivi  
 
