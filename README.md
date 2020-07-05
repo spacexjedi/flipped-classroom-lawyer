@@ -13,4 +13,9 @@ Self learning as a Law Student.
 
 * Classes  
 1 - Raciocínio Lógico - Kultivi  
+2 - Estratégia Carreiras Júridicas - Aulas do Professor Jean  
+3 - CEISC   
+4 - Saber Direito TV Justiça  
+5 - Estratégia Vestibulares e Curso Enem Gratuito  
+
 
