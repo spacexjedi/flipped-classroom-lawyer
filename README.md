@@ -9,7 +9,7 @@ Self learning as a Law Student.
 
 >> Exercises   
 1 - Tecconcursos FCC 2020   
-
+2 - Brillhant  
 
 * Classes  
 1 - Raciocínio Lógico - Kultivi  
@@ -18,5 +18,7 @@ Self learning as a Law Student.
 4 - Saber Direito TV Justiça  
 5 - Estratégia Vestibulares e Curso Enem Gratuito  
 6 - Learn English with Gill  
+7 - Estratégia Carreiras Júridicas - Aulas da Professora Nelma  
+
 
 
