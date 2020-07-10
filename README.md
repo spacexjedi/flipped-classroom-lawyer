@@ -19,6 +19,7 @@ Self learning as a Law Student.
 5 - Estratégia Vestibulares e Curso Enem Gratuito  
 6 - Learn English with Gill  
 7 - Estratégia Carreiras Júridicas - Aulas da Professora Nelma  
+8 - Direito Penal - Kultivi   
 
 
 
