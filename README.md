@@ -10,6 +10,7 @@ Self learning as a Law Student.
 >> Exercises   
 1 - Tecconcursos FCC 2020   
 2 - Brillhant  
+3 - Quizizz      
 
 * Classes  
 1 - Raciocínio Lógico - Kultivi  
