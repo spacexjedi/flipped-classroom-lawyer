@@ -6,3 +6,5 @@
 
 O TJ faz controle difuso em relação ao TF.  
 O controle abstrato do TJ é somente em relação das normas estaduais.  
+
+NÃO CABE MANDADO DE SEGURANÇA  
